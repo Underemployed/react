@@ -1,1 +1,14 @@
 .env
+/node_modules
+/build
+/dist
+.idea/
+.vscode/
+.editorconfig
+/logs
+*.log
+.DS_Store
+__tests__/
+test/
+coverage/
+/generated
